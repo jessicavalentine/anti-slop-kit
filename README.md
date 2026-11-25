@@ -1,4 +1,3 @@
-# anti-slop-kit
 # The Anti-Slop Kit
 
 **Free AI skills for presentations, social posts and email that don't look or sound like AI made them. By [Social Mode](https://socialmode.com).**
@@ -43,3 +42,15 @@ If you only remember five things:
 3. If you could swap in another brand's name and the sentence still works, rewrite it.
 4. Never leave a single word on its own line.
 5. Don't let every slide look the same. Mix the alignment, break the grid once, and put a real photo on the cover.
+
+## Credits
+
+Inspired in part by Peter Yang's [no-ai-slop](https://github.com/petergyang/no-ai-slop), a brilliant editing skill released under the MIT licence. The rules here are written from scratch for social, presentations and email. See [CREDITS.md](CREDITS.md).
+
+## Licence
+
+MIT. Use it and share it freely. A credit back to Social Mode is always appreciated.
+
+## Say hello
+
+If this saves you from one more "Let's dive in", tell me. I write about the zeitgeist at [socialmode.com](https://socialmode.com).
